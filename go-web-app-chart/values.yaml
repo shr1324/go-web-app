@@ -1,0 +1,4 @@
+image:
+  repository: shr1324/go-web-app
+  pullPolicy: IfNotPresent
+  tag: "latest"
