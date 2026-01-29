@@ -1,4 +1,4 @@
 image:
   repository: shr1324/go-web-app
   pullPolicy: IfNotPresent
-  tag: "21461109534"
+  tag: "21461147192"
